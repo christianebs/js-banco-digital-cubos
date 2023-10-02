@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://img.shields.io/github/stars/christianebs/js-banco-digital-cubos?style=social">
+<img src="https://img.shields.io/github/issues-pr-raw/christianebs/js-banco-digital-cubos?style=social">
+<img src="https://img.shields.io/github/issues-closed/christianebs/js-banco-digital-cubos?style=social">
+</p>
 # Banco Digital CUBOS
 
 Este projeto integra o Módulo 2 da **Cubos Academy**. O objetivo é desenvolver uma API para um Banco Digital que atenda às demandas de gerenciamento de contas, transações financeiras e consultas, proporcionando uma experiência eficiente e segura para os usuários.
@@ -5,6 +9,28 @@ Este projeto integra o Módulo 2 da **Cubos Academy**. O objetivo é desenvolver
 ## :woman_mechanic: Linguagens e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7) ![Insomnia](https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=%23F05033) ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## :paintbrush: Layout
+
+    - Criar Conta
+
+![Banco-Criar](https://github.com/christianebs/js-banco-digital-cubos/assets/108686840/976c312c-06b7-493f-92e2-2dd9e9c03442)
+
+    - Listar Contas
+
+![Banco-Listar](https://github.com/christianebs/js-banco-digital-cubos/assets/108686840/9fc6e1f5-633d-4d79-a3cc-5f86550e0228)
+
+    - Atualizar Conta
+
+![Banco-Atualizar](https://github.com/christianebs/js-banco-digital-cubos/assets/108686840/4c45fcd8-6009-4196-b86f-e49b2550f518)
+
+    - Extrato
+
+![Banco-Extrato](https://github.com/christianebs/js-banco-digital-cubos/assets/108686840/19f6d241-0bd4-4982-9858-2ed8d5fc4a4d)
+
+    - Saldo
+
+![Banco-Saldo](https://github.com/christianebs/js-banco-digital-cubos/assets/108686840/66f78547-0c15-487e-8cad-b0845714d65b)
 
 ## :triangular_flag_on_post: Contribua com o projeto
 
