@@ -77,7 +77,7 @@ Essa configuração permite iniciar o servidor em modo de desenvolvimento usando
 
 ## :memo: Collections
 
-- Insomnia
+- [Insomnia](https://github.com/christianebs/js-banco-digital-cubos/blob/main/Insomnia_collections.json)
 
 ## :scroll: Licença do Projeto
 
