@@ -2,6 +2,7 @@
 <img src="https://img.shields.io/github/issues-pr-raw/christianebs/js-banco-digital-cubos?style=social">
 <img src="https://img.shields.io/github/issues-closed/christianebs/js-banco-digital-cubos?style=social">
 </p>
+
 # Banco Digital CUBOS
 
 Este projeto integra o Módulo 2 da **Cubos Academy**. O objetivo é desenvolver uma API para um Banco Digital que atenda às demandas de gerenciamento de contas, transações financeiras e consultas, proporcionando uma experiência eficiente e segura para os usuários.
