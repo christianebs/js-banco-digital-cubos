@@ -81,7 +81,7 @@ Essa configuração permite iniciar o servidor em modo de desenvolvimento usando
 
 ## :scroll: Licença do Projeto
 
-[Licenca MIT License](http://creativecommons.org/licenses/by)
+[Licenca MIT License](https://github.com/christianebs/js-banco-digital-cubos/blob/main/LICENSE.txt)
 
 ## :woman_technologist: Autora
 
