@@ -86,5 +86,5 @@ Essa configuração permite iniciar o servidor em modo de desenvolvimento usando
 ## :woman_technologist: Autora
 
 <a href="https://github.com/christianebs">
-<img src="https://avatars.githubusercontent.com/u/108686840?v=4" width="100px" />
+<img src="https://user-images.githubusercontent.com/108686840/271874870-1003d6c2-7574-4104-a392-ab6b2713cff2.png" width="100px" />
 </a>
