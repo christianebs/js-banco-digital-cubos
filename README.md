@@ -32,7 +32,7 @@ Este projeto integra o Módulo 2 da **Cubos Academy**. O objetivo é desenvolver
 ```shell
 # 1. Clone o projeto
 
-git clone https://github.com/christianebs//js-banco-digital-cubos.git
+git clone https://github.com/christianebs/js-banco-digital-cubos.git
 
 # 2. Inicialize um novo projeto Node.js
 
