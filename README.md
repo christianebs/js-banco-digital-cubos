@@ -1,10 +1,6 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=christianebs.js-banco-digital-cubos?color=CC6699)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=christianebs.js-banco-digital-cubos?color=CC6699) ![Repo Star](https://img.shields.io/github/stars/christianebs/js-banco-digital-cubos?style=social) ![PR](https://img.shields.io/github/issues-pr-raw/christianebs/js-banco-digital-cubos?style=social) ![Issues](https://img.shields.io/github/issues-closed/christianebs/js-banco-digital-cubos?style=social) ![HitCount](https://hits.dwyl.com/christianebs/js-banco-digital-cubos.svg)
 
-<p align="center"> 
-<img src="https://img.shields.io/github/stars/christianebs/js-banco-digital-cubos?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/christianebs/js-banco-digital-cubos?style=social">
-<img src="https://img.shields.io/github/issues-closed/christianebs/js-banco-digital-cubos?style=social">
-</p>
+
 
 # Banco Digital CUBOS
 
