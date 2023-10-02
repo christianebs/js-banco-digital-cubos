@@ -1,7 +1,11 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=christianebs.js-banco-digital-cubos?color=CC6699)
+
 <p align="center"> <img src="https://img.shields.io/github/stars/christianebs/js-banco-digital-cubos?style=social">
 <img src="https://img.shields.io/github/issues-pr-raw/christianebs/js-banco-digital-cubos?style=social">
 <img src="https://img.shields.io/github/issues-closed/christianebs/js-banco-digital-cubos?style=social">
 </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=christianebs.js-banco-digital-cubos?color=CC6699)
 
 # Banco Digital CUBOS
 
